@@ -34,3 +34,5 @@ migrations/
 *.json
 
 *.lock
+
+*.dist
