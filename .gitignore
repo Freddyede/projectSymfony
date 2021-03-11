@@ -29,3 +29,5 @@ vendor/
 *.test
 
 .env
+
+migrations/
