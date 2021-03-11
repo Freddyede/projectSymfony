@@ -36,3 +36,5 @@ migrations/
 *.lock
 
 *.dist
+
+translations/
