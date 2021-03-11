@@ -24,3 +24,9 @@ bin/
 config/
 
 tests/
+
+vendor/
+
+.env
+
+.env.test
