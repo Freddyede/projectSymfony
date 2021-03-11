@@ -30,3 +30,7 @@ vendor/
 
 .env
 migrations/
+
+*.json
+
+*.lock
