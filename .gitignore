@@ -26,7 +26,6 @@ config/
 tests/
 
 vendor/
+*.test
 
 .env
-
-.env.test
